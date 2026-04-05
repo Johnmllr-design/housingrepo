@@ -1,0 +1,764 @@
+
+['barbour hall', 'barbour fl 1 a', 'pbarbour 140', 'barbour 140 141', 'barbour 140 141-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['barbour hall', 'barbour fl 1 a', 'pbarbour 140', 'barbour 140 144', 'barbour 140 144-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['barbour hall', 'barbour fl 1 a', 'pbarbour 140', 'barbour 140 145', 'barbour 140 145-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['barbour hall', 'barbour fl 1 a', 'pbarbour 140', 'barbour 140 146', 'barbour 140 146-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 116', 'chen 116 116a', 'chen 116 116a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 116', 'chen 116 116b', 'chen 116 116b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 116', 'chen 116 116c', 'chen 116 116c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 116', 'chen 116 116d', 'chen 116 116d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 118', 'chen 118 118a', 'chen 118 118a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 118', 'chen 118 118b', 'chen 118 118b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 118', 'chen 118 118c', 'chen 118 118c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 118', 'chen 118 118d', 'chen 118 118d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 119', 'chen 119 119a', 'chen 119 119a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 119', 'chen 119 119b', 'chen 119 119b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 119', 'chen 119 119c', 'chen 119 119c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 1', 'chen 119', 'chen 119 119d', 'chen 119 119d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 202', 'chen 202 202a', 'chen 202 202a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 202', 'chen 202 202b', 'chen 202 202b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 202', 'chen 202 202c', 'chen 202 202c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 202', 'chen 202 202d', 'chen 202 202d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 206', 'chen 206 206d', 'chen 206 206d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 207', 'chen 207 207a', 'chen 207 207a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 207', 'chen 207 207b', 'chen 207 207b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 207', 'chen 207 207c', 'chen 207 207c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 207', 'chen 207 207d', 'chen 207 207d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 217', 'chen 217 217a', 'chen 217 217a-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 218', 'chen 218 218a', 'chen 218 218a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 218', 'chen 218 218b', 'chen 218 218b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 218', 'chen 218 218c', 'chen 218 218c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 218', 'chen 218 218d', 'chen 218 218d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 219', 'chen 219 219a', 'chen 219 219a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 219', 'chen 219 219b', 'chen 219 219b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 219', 'chen 219 219c', 'chen 219 219c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 219', 'chen 219 219d', 'chen 219 219d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 222', 'chen 222 222a', 'chen 222 222a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 222', 'chen 222 222b', 'chen 222 222b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 222', 'chen 222 222c', 'chen 222 222c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 2', 'chen 222', 'chen 222 222d', 'chen 222 222d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 302', 'chen 302 302a', 'chen 302 302a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 302', 'chen 302 302b', 'chen 302 302b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 302', 'chen 302 302c', 'chen 302 302c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 302', 'chen 302 302d', 'chen 302 302d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 313', 'chen 313 313a', 'chen 313 313a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 313', 'chen 313 313b', 'chen 313 313b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 313', 'chen 313 313c', 'chen 313 313c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 313', 'chen 313 313d', 'chen 313 313d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 318', 'chen 318 318a', 'chen 318 318a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 318', 'chen 318 318b', 'chen 318 318b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 318', 'chen 318 318c', 'chen 318 318c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 318', 'chen 318 318d', 'chen 318 318d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 319', 'chen 319 319a', 'chen 319 319a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 319', 'chen 319 319b', 'chen 319 319b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 319', 'chen 319 319c', 'chen 319 319c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 3', 'chen 319', 'chen 319 319d', 'chen 319 319d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 402', 'chen 402 402a', 'chen 402 402a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 402', 'chen 402 402b', 'chen 402 402b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 402', 'chen 402 402c', 'chen 402 402c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 402', 'chen 402 402d', 'chen 402 402d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 406', 'chen 406 406a', 'chen 406 406a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 406', 'chen 406 406b', 'chen 406 406b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 406', 'chen 406 406c', 'chen 406 406c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 406', 'chen 406 406d', 'chen 406 406d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 407', 'chen 407 407a', 'chen 407 407a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 407', 'chen 407 407b', 'chen 407 407b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 407', 'chen 407 407c', 'chen 407 407c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 407', 'chen 407 407d', 'chen 407 407d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 417', 'chen 417 417b', 'chen 417 417b-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 418', 'chen 418 418a', 'chen 418 418a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 418', 'chen 418 418b', 'chen 418 418b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 418', 'chen 418 418c', 'chen 418 418c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 4', 'chen 418', 'chen 418 418d', 'chen 418 418d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 506', 'chen 506 506c', 'chen 506 506c-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 507', 'chen 507 507a', 'chen 507 507a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 507', 'chen 507 507b', 'chen 507 507b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 507', 'chen 507 507c', 'chen 507 507c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 507', 'chen 507 507d', 'chen 507 507d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 513', 'chen 513 513a', 'chen 513 513a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 513', 'chen 513 513b', 'chen 513 513b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 513', 'chen 513 513c', 'chen 513 513c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 513', 'chen 513 513d', 'chen 513 513d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 518', 'chen 518 518a', 'chen 518 518a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 518', 'chen 518 518b', 'chen 518 518b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 518', 'chen 518 518c', 'chen 518 518c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 518', 'chen 518 518d', 'chen 518 518d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 519', 'chen 519 519a', 'chen 519 519a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 519', 'chen 519 519b', 'chen 519 519b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 519', 'chen 519 519c', 'chen 519 519c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['chen family hall', 'chen fl 5', 'chen 519', 'chen 519 519d', 'chen 519 519d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 114', 'danoff 114 114a', 'danoff 114 114a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 114', 'danoff 114 114b', 'danoff 114 114b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 114', 'danoff 114 114c', 'danoff 114 114c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 114', 'danoff 114 114d', 'danoff 114 114d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 120', 'danoff 120 120a', 'danoff 120 120a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 120', 'danoff 120 120b', 'danoff 120 120b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 120', 'danoff 120 120c', 'danoff 120 120c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 120', 'danoff 120 120d', 'danoff 120 120d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 124', 'danoff 124 124a', 'danoff 124 124a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 124', 'danoff 124 124b', 'danoff 124 124b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 124', 'danoff 124 124c', 'danoff 124 124c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 1', 'danoff 124', 'danoff 124 124d', 'danoff 124 124d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 205', 'danoff 205 205c', 'danoff 205 205c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 205', 'danoff 205 205d', 'danoff 205 205d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 211', 'danoff 211 211c', 'danoff 211 211c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 211', 'danoff 211 211d', 'danoff 211 211d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 215', 'danoff 215 215a', 'danoff 215 215a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 215', 'danoff 215 215b', 'danoff 215 215b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 215', 'danoff 215 215c', 'danoff 215 215c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 215', 'danoff 215 215d', 'danoff 215 215d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 219', 'danoff 219 219a', 'danoff 219 219a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 219', 'danoff 219 219b', 'danoff 219 219b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 219', 'danoff 219 219c', 'danoff 219 219c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 219', 'danoff 219 219d', 'danoff 219 219d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 220', 'danoff 220 220a', 'danoff 220 220a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 220', 'danoff 220 220b', 'danoff 220 220b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 220', 'danoff 220 220c', 'danoff 220 220c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 2', 'danoff 220', 'danoff 220 220d', 'danoff 220 220d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 304', 'danoff 304 304a', 'danoff 304 304a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 304', 'danoff 304 304b', 'danoff 304 304b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 304', 'danoff 304 304c', 'danoff 304 304c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 304', 'danoff 304 304d', 'danoff 304 304d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 314', 'danoff 314 314a', 'danoff 314 314a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 314', 'danoff 314 314b', 'danoff 314 314b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 314', 'danoff 314 314c', 'danoff 314 314c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 314', 'danoff 314 314d', 'danoff 314 314d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 319', 'danoff 319 319a', 'danoff 319 319a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 319', 'danoff 319 319b', 'danoff 319 319b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 319', 'danoff 319 319c', 'danoff 319 319c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 319', 'danoff 319 319d', 'danoff 319 319d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 320', 'danoff 320 320a', 'danoff 320 320a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 320', 'danoff 320 320b', 'danoff 320 320b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 320', 'danoff 320 320c', 'danoff 320 320c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 3', 'danoff 320', 'danoff 320 320d', 'danoff 320 320d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 404', 'danoff 404 404a', 'danoff 404 404a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 404', 'danoff 404 404b', 'danoff 404 404b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 404', 'danoff 404 404c', 'danoff 404 404c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 404', 'danoff 404 404d', 'danoff 404 404d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 405', 'danoff 405 405a', 'danoff 405 405a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 405', 'danoff 405 405b', 'danoff 405 405b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 405', 'danoff 405 405c', 'danoff 405 405c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 405', 'danoff 405 405d', 'danoff 405 405d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 411', 'danoff 411 411a', 'danoff 411 411a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 411', 'danoff 411 411b', 'danoff 411 411b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 411', 'danoff 411 411c', 'danoff 411 411c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 411', 'danoff 411 411d', 'danoff 411 411d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 420', 'danoff 420 420a', 'danoff 420 420a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 420', 'danoff 420 420b', 'danoff 420 420b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 420', 'danoff 420 420c', 'danoff 420 420c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 4', 'danoff 420', 'danoff 420 420d', 'danoff 420 420d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 511', 'danoff 511 511b', 'danoff 511 511b-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 514', 'danoff 514 514a', 'danoff 514 514a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 514', 'danoff 514 514b', 'danoff 514 514b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 514', 'danoff 514 514c', 'danoff 514 514c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 514', 'danoff 514 514d', 'danoff 514 514d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 515', 'danoff 515 515b', 'danoff 515 515b-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 520', 'danoff 520 520a', 'danoff 520 520a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 520', 'danoff 520 520b', 'danoff 520 520b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 520', 'danoff 520 520c', 'danoff 520 520c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['danoff hall', 'danoff fl 5', 'danoff 520', 'danoff 520 520d', 'danoff 520 520d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['grad center a', 'gradctr a fl 3', 'gradctr a 320', 'gradctr a 320 321', 'gradctr a 320 321-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center a', 'gradctr a fl 3', 'gradctr a 320', 'gradctr a 320 322', 'gradctr a 320 322-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center a', 'gradctr a fl 3', 'gradctr a 320', 'gradctr a 320 323', 'gradctr a 320 323-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center a', 'gradctr a fl 3', 'gradctr a 320', 'gradctr a 320 324', 'gradctr a 320 324-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 2', 'gradctr b 220', 'gradctr b 220 221', 'gradctr b 220 221-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 2', 'gradctr b 220', 'gradctr b 220 222', 'gradctr b 220 222-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 2', 'gradctr b 220', 'gradctr b 220 223', 'gradctr b 220 223-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 2', 'gradctr b 220', 'gradctr b 220 224', 'gradctr b 220 224-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 3', 'gradctr b 330', 'gradctr b 330 331', 'gradctr b 330 331-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 3', 'gradctr b 330', 'gradctr b 330 332', 'gradctr b 330 332-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 3', 'gradctr b 330', 'gradctr b 330 333', 'gradctr b 330 333-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center b', 'gradctr b fl 3', 'gradctr b 330', 'gradctr b 330 334', 'gradctr b 330 334-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center c', 'gradctr c fl 1', 'gradctr c 110', 'gradctr c 110 113', 'gradctr c 110 113-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 120', 'gradctr d 120 121', 'gradctr d 120 121-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 120', 'gradctr d 120 123', 'gradctr d 120 123-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 120', 'gradctr d 120 124', 'gradctr d 120 124-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 120', 'gradctr d 120 125', 'gradctr d 120 125-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 140', 'gradctr d 140 142', 'gradctr d 140 142-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 140', 'gradctr d 140 143', 'gradctr d 140 143-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 140', 'gradctr d 140 144', 'gradctr d 140 144-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 1', 'gradctr d 140', 'gradctr d 140 145', 'gradctr d 140 145-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 2', 'gradctr d 210', 'gradctr d 210 211', 'gradctr d 210 211-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 2', 'gradctr d 210', 'gradctr d 210 212', 'gradctr d 210 212-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 2', 'gradctr d 210', 'gradctr d 210 213', 'gradctr d 210 213-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['grad center d', 'gradctr d fl 2', 'gradctr d 210', 'gradctr d 210 214', 'gradctr d 210 214-1', 'single(suite/apartment)', '4', 'dynamicgender', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 201', 'greg a 201 201c', 'greg a 201 201c-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 201', 'greg a 201 201d', 'greg a 201 201d-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 202', 'greg a 202 202a', 'greg a 202 202a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 202', 'greg a 202 202b', 'greg a 202 202b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 202', 'greg a 202 202c', 'greg a 202 202c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 202', 'greg a 202 202d', 'greg a 202 202d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 203', 'greg a 203 203a', 'greg a 203 203a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 203', 'greg a 203 203b', 'greg a 203 203b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 203', 'greg a 203 203c', 'greg a 203 203c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 203', 'greg a 203 203d', 'greg a 203 203d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 204', 'greg a 204 204c', 'greg a 204 204c-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 204', 'greg a 204 204d', 'greg a 204 204d-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 206', 'greg a 206 206a', 'greg a 206 206a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 206', 'greg a 206 206b', 'greg a 206 206b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 206', 'greg a 206 206c', 'greg a 206 206c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 206', 'greg a 206 206d', 'greg a 206 206d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 212', 'greg a 212 212a', 'greg a 212 212a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 212', 'greg a 212 212b', 'greg a 212 212b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 212', 'greg a 212 212c', 'greg a 212 212c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 212', 'greg a 212 212d', 'greg a 212 212d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 213', 'greg a 213 213a', 'greg a 213 213a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 213', 'greg a 213 213b', 'greg a 213 213b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 213', 'greg a 213 213c', 'greg a 213 213c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 213', 'greg a 213 213d', 'greg a 213 213d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 214', 'greg a 214 214c', 'greg a 214 214c-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 2', 'greg a 214', 'greg a 214 214d', 'greg a 214 214d-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 303', 'greg a 303 303a', 'greg a 303 303a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 303', 'greg a 303 303b', 'greg a 303 303b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 303', 'greg a 303 303c', 'greg a 303 303c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 303', 'greg a 303 303d', 'greg a 303 303d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 304', 'greg a 304 304c', 'greg a 304 304c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 304', 'greg a 304 304d', 'greg a 304 304d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 309', 'greg a 309 309a', 'greg a 309 309a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 309', 'greg a 309 309b', 'greg a 309 309b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 309', 'greg a 309 309c', 'greg a 309 309c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 309', 'greg a 309 309d', 'greg a 309 309d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 312', 'greg a 312 312c', 'greg a 312 312c-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 312', 'greg a 312 312d', 'greg a 312 312d-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 313', 'greg a 313 313a', 'greg a 313 313a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 313', 'greg a 313 313b', 'greg a 313 313b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 313', 'greg a 313 313c', 'greg a 313 313c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 313', 'greg a 313 313d', 'greg a 313 313d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 314', 'greg a 314 314c', 'greg a 314 314c-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 3', 'greg a 314', 'greg a 314 314d', 'greg a 314 314d-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 4', 'greg a 401', 'greg a 401 401d', 'greg a 401 401d-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 4', 'greg a 402', 'greg a 402 402a', 'greg a 402 402a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 4', 'greg a 402', 'greg a 402 402b', 'greg a 402 402b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 4', 'greg a 402', 'greg a 402 402c', 'greg a 402 402c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad a', 'greg a fl 4', 'greg a 402', 'greg a 402 402d', 'greg a 402 402d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 102', 'greg b 102 102a', 'greg b 102 102a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 102', 'greg b 102 102b', 'greg b 102 102b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 102', 'greg b 102 102c', 'greg b 102 102c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 102', 'greg b 102 102d', 'greg b 102 102d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 104', 'greg b 104 104a', 'greg b 104 104a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 104', 'greg b 104 104b', 'greg b 104 104b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 104', 'greg b 104 104c', 'greg b 104 104c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 104', 'greg b 104 104d', 'greg b 104 104d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 105', 'greg b 105 105c', 'greg b 105 105c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 105', 'greg b 105 105d', 'greg b 105 105d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 106', 'greg b 106 106a', 'greg b 106 106a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 106', 'greg b 106 106b', 'greg b 106 106b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 106', 'greg b 106 106c', 'greg b 106 106c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 106', 'greg b 106 106d', 'greg b 106 106d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 108', 'greg b 108 108a', 'greg b 108 108a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 108', 'greg b 108 108b', 'greg b 108 108b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 108', 'greg b 108 108c', 'greg b 108 108c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 1', 'greg b 108', 'greg b 108 108d', 'greg b 108 108d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 203', 'greg b 203 203a', 'greg b 203 203a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 203', 'greg b 203 203b', 'greg b 203 203b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 203', 'greg b 203 203c', 'greg b 203 203c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 203', 'greg b 203 203d', 'greg b 203 203d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 204', 'greg b 204 204a', 'greg b 204 204a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 204', 'greg b 204 204b', 'greg b 204 204b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 204', 'greg b 204 204c', 'greg b 204 204c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 204', 'greg b 204 204d', 'greg b 204 204d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 205', 'greg b 205 205c', 'greg b 205 205c-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 205', 'greg b 205 205d', 'greg b 205 205d-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 206', 'greg b 206 206a', 'greg b 206 206a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 206', 'greg b 206 206b', 'greg b 206 206b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 206', 'greg b 206 206c', 'greg b 206 206c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 206', 'greg b 206 206d', 'greg b 206 206d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 208', 'greg b 208 208a', 'greg b 208 208a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 208', 'greg b 208 208b', 'greg b 208 208b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 208', 'greg b 208 208c', 'greg b 208 208c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 2', 'greg b 208', 'greg b 208 208d', 'greg b 208 208d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 301', 'greg b 301 301a', 'greg b 301 301a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 301', 'greg b 301 301b', 'greg b 301 301b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 301', 'greg b 301 301c', 'greg b 301 301c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 301', 'greg b 301 301d', 'greg b 301 301d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 302', 'greg b 302 302a', 'greg b 302 302a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 302', 'greg b 302 302b', 'greg b 302 302b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 302', 'greg b 302 302c', 'greg b 302 302c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 302', 'greg b 302 302d', 'greg b 302 302d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 303', 'greg b 303 303a', 'greg b 303 303a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 303', 'greg b 303 303b', 'greg b 303 303b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 303', 'greg b 303 303c', 'greg b 303 303c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 303', 'greg b 303 303d', 'greg b 303 303d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 304', 'greg b 304 304a', 'greg b 304 304a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 304', 'greg b 304 304b', 'greg b 304 304b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 304', 'greg b 304 304c', 'greg b 304 304c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 304', 'greg b 304 304d', 'greg b 304 304d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 305', 'greg b 305 305c', 'greg b 305 305c-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 305', 'greg b 305 305d', 'greg b 305 305d-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 306', 'greg b 306 306a', 'greg b 306 306a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 306', 'greg b 306 306b', 'greg b 306 306b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 306', 'greg b 306 306c', 'greg b 306 306c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 306', 'greg b 306 306d', 'greg b 306 306d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 308', 'greg b 308 308a', 'greg b 308 308a-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 308', 'greg b 308 308b', 'greg b 308 308b-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 308', 'greg b 308 308c', 'greg b 308 308c-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['gregorian quad b', 'greg b fl 3', 'greg b 308', 'greg b 308 308d', 'greg b 308 308d-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 291', 'sternlicht 291 29', '1sternlicht 291 291b', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 293', 'sternlicht 293 29', '3sternlicht 293 293b', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 293', 'sternlicht 293 29', '3sternlicht 293 293c', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 293', 'sternlicht 293 29', '3sternlicht 293 293d', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 294', 'sternlicht 294 29', '4sternlicht 294 294a', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 294', 'sternlicht 294 29', '4sternlicht 294 294b', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 294', 'sternlicht 294 29', '4sternlicht 294 294c', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 2', 'sternlicht 294', 'sternlicht 294 29', '4sternlicht 294 294d', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 3', 'sternlicht 393', 'sternlicht 393 39', '3sternlicht 393 393b', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 3', 'sternlicht 393', 'sternlicht 393 39', '3sternlicht 393 393c', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 3', 'sternlicht 393', 'sternlicht 393 39', '3sternlicht 393 393d', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 3', 'sternlicht 394', 'sternlicht 394 39', '4sternlicht 394 394a', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 3', 'sternlicht 394', 'sternlicht 394 39', '4sternlicht 394 394b', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 3', 'sternlicht 394', 'sternlicht 394 39', '4sternlicht 394 394c', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 3', 'sternlicht 394', 'sternlicht 394 39', '4sternlicht 394 394d', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 491', 'sternlicht 491 49', '1sternlicht 491 491a', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 491', 'sternlicht 491 49', '1sternlicht 491 491b', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 491', 'sternlicht 491 49', '1sternlicht 491 491c', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 491', 'sternlicht 491 49', '1sternlicht 491 491d', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 492', 'sternlicht 492 49', '2sternlicht 492 492a', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 492', 'sternlicht 492 49', '2sternlicht 492 492b', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 492', 'sternlicht 492 49', '2sternlicht 492 492c', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 492', 'sternlicht 492 49', '2sternlicht 492 492d', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 493', 'sternlicht 493 49', '3sternlicht 493 493c', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 493', 'sternlicht 493 49', '3sternlicht 493 493d', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 494', 'sternlicht 494 49', '4sternlicht 494 494a', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 494', 'sternlicht 494 49', '4sternlicht 494 494b', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 494', 'sternlicht 494 49', '4sternlicht 494 494c', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['sternlicht commons', 'sternlicht fl 4', 'sternlicht 494', 'sternlicht 494 49', '4sternlicht 494 494d', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 1', 'yo 10 110', 'yo 10 110 111', 'yo 10 110 111-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 1', 'yo 10 110', 'yo 10 110 112', 'yo 10 110 112-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 1', 'yo 10 110', 'yo 10 110 113', 'yo 10 110 113-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 1', 'yo 10 110', 'yo 10 110 114', 'yo 10 110 114-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 2', 'yo 10 210', 'yo 10 210 213', 'yo 10 210 213-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 2', 'yo 10 210', 'yo 10 210 214', 'yo 10 210 214-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 2', 'yo 10 220', 'yo 10 220 222', 'yo 10 220 222-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 2', 'yo 10 230', 'yo 10 230 231', 'yo 10 230 231-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 2', 'yo 10 230', 'yo 10 230 232', 'yo 10 230 232-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 2', 'yo 10 230', 'yo 10 230 233', 'yo 10 230 233-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 2', 'yo 10 230', 'yo 10 230 234', 'yo 10 230 234-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 3', 'yo 10 330', 'yo 10 330 331', 'yo 10 330 331-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 3', 'yo 10 330', 'yo 10 330 332', 'yo 10 330 332-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 3', 'yo 10 330', 'yo 10 330 333', 'yo 10 330 333-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 3', 'yo 10 330', 'yo 10 330 334', 'yo 10 330 334-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 3', 'yo 10 340', 'yo 10 340 344', 'yo 10 340 344-1', 'single(suite/apartment)', '4', 'male', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 4', 'yo 10 420', 'yo 10 420 421', 'yo 10 420 421-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 4', 'yo 10 420', 'yo 10 420 422', 'yo 10 420 422-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 4', 'yo 10 420', 'yo 10 420 423', 'yo 10 420 423-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 4', 'yo 10 420', 'yo 10 420 424', 'yo 10 420 424-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 10', 'yo 10 fl 4', 'yo 10 440', 'yo 10 440 444', 'yo 10 440 444-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 1', 'yo 2 110', 'yo 2 110 111', 'yo 2 110 111-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 1', 'yo 2 110', 'yo 2 110 112', 'yo 2 110 112-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 1', 'yo 2 120', 'yo 2 120 121', 'yo 2 120 121-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 1', 'yo 2 120', 'yo 2 120 122', 'yo 2 120 122-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 2', 'yo 2 210', 'yo 2 210 212', 'yo 2 210 212-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 2', 'yo 2 210', 'yo 2 210 213', 'yo 2 210 213-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 2', 'yo 2 210', 'yo 2 210 214', 'yo 2 210 214-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 320', 'yo 2 320 321', 'yo 2 320 321-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 320', 'yo 2 320 322', 'yo 2 320 322-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 320', 'yo 2 320 323', 'yo 2 320 323-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 320', 'yo 2 320 324', 'yo 2 320 324-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 340', 'yo 2 340 341', 'yo 2 340 341-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 340', 'yo 2 340 342', 'yo 2 340 342-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 340', 'yo 2 340 343', 'yo 2 340 343-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 3', 'yo 2 340', 'yo 2 340 344', 'yo 2 340 344-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 420', 'yo 2 420 421', 'yo 2 420 421-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 420', 'yo 2 420 422', 'yo 2 420 422-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 420', 'yo 2 420 423', 'yo 2 420 423-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 420', 'yo 2 420 424', 'yo 2 420 424-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 430', 'yo 2 430 432', 'yo 2 430 432-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 440', 'yo 2 440 441', 'yo 2 440 441-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 440', 'yo 2 440 442', 'yo 2 440 442-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 440', 'yo 2 440 443', 'yo 2 440 443-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 2', 'yo 2 fl 4', 'yo 2 440', 'yo 2 440 444', 'yo 2 440 444-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 1', 'yo 4 110', 'yo 4 110 111', 'yo 4 110 111-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 1', 'yo 4 110', 'yo 4 110 112', 'yo 4 110 112-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 1', 'yo 4 110', 'yo 4 110 113', 'yo 4 110 113-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 1', 'yo 4 110', 'yo 4 110 114', 'yo 4 110 114-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 2', 'yo 4 220', 'yo 4 220 221', 'yo 4 220 221-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 2', 'yo 4 220', 'yo 4 220 222', 'yo 4 220 222-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 2', 'yo 4 220', 'yo 4 220 223', 'yo 4 220 223-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 2', 'yo 4 220', 'yo 4 220 224', 'yo 4 220 224-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 3', 'yo 4 320', 'yo 4 320 321', 'yo 4 320 321-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 3', 'yo 4 320', 'yo 4 320 322', 'yo 4 320 322-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 3', 'yo 4 320', 'yo 4 320 323', 'yo 4 320 323-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 3', 'yo 4 320', 'yo 4 320 324', 'yo 4 320 324-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 4', 'yo 4 410', 'yo 4 410 414', 'yo 4 410 414-1', 'single(suite/apartment)', '4', 'coed', 'springgeneral housingselection']
+
+['young orchard 4', 'yo 4 fl 4', 'yo 4 440', 'yo 4 440 441', 'yo 4 440 441-1', 'single(suite/apartment)', '4', 'female', 'springgeneral housingselection']
